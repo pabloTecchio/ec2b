@@ -1,0 +1,4 @@
+O monitoramento será realizado através de reports dos usuários através de um menu "Ajuda" e
+semanalmente será aualizado para previnir futuros bugs.
+Caso algum bug ocorra, será realizado uma nova atualização para a solução do bug baseada em 
+testes que irão verificar se o bug ainda persiste.

@@ -1,2 +1,9 @@
-Os metodos para teste de funcionalidades sera baseado nos dados guardados
-e eventos gerados pelo
+O teste para verificar o login do usuário será baseado primeiramente na criação de um usuário
+e senha que será armazenado no banco de dados. Alguns dados serão obrigatórios: Usuário maior
+de idade e tem que cadastrar um cartão. Após o cadastro, os dados serão armazenados no banco, e toda
+vez que esse usuário for iniciar uma corrida, será solicitada a senha, caso coincidir com a 
+registrada anteriormente o usuário está liberado para a viagem.
+Para o pagamento, o sistema irá localizar o número do cartão e verificar se o mesmo é válido. Para
+verificar isso, o sistema irá realizar uma cobrança de 0.01 reais (que serão devolvidos caso a transação seja aprovada).
+ 
+
