@@ -1,0 +1,19 @@
+Nosso pograma será baseado em "caronas" cedidas por carros 
+particulares (ou fretados) calculando o trajeto dinamicamente 
+com base nos destinos dos usuários.
+
+O métedo de pagamento será feito pelo aplicativo com cartões de crédito/débito ou
+plataformas de pagamento virtual (mercado pago, picpay, etc...)
+
+O usuário irá selecionar o destino desejado e um motorista mais próximo
+(ou que já tenha uma rota que passe perto de onde o passajeiro se encontra)
+ será acionado para sediar a viagem.
+
+Os valores irão variar de acordo com a distância e tempo do percurso.
+
+As rotas dos motoristas sera atualizada com base na distancia de novos passageiros 
+levando em conta o custo da viajem dos passageiros ja em viagem.
+
+O sistema deve cadastrar novos usuarios, guardas dados no banco, resgistro e rastreio dos
+usuários enquanto estiverem com o aplicativo aberto (obrigatório conexão com a internet e 
+gps).

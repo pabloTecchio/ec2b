@@ -1,0 +1,2 @@
+Nosso sistema será um sistema mobile, irá rodar tanto em android quanto IOS, os dados dos 
+usuários serão armazenados no banco de dados.

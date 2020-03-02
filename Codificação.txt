@@ -1,0 +1,6 @@
+Nosso sistema irá utulizar as linguagens python (no back-end - algorítimos matemáticos,
+operações etc), sql (armazenamento dos dados e consultas), JavaScrip(será usado tanto 
+para o front quanto para o back-end), HTML5 e CSS para estilização e estruturação do app.
+Iremos utilizar essas liguagens pois temos um melhor domínio das mesmas e atendem a nossa
+proposta para o aplicativo, e usaremos estrutura modular ( em codigos separados em modulos)
+para uma melhor eficacia de manutencao, suporte e monitoramento do sistema.

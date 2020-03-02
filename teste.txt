@@ -1,0 +1,2 @@
+Os metodos para teste de funcionalidades sera baseado nos dados guardados
+e eventos gerados pelo
